@@ -1,2 +1,19 @@
-![Weredok GitHub stats](https://github-readme-stats-weredok.vercel.app/api?username=weredok&count_private=true&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats-weredok.vercel.app/api/top-langs/?username=weredok)](https://github.com/anuraghazra/github-readme-stats)
+ Hi! I'm Weredok, and i junior developer.
+Learning JavaScript, TypeScript, HTML, CSS.
+![Weredok GitHub stats](https://github-readme-stats-weredok.vercel.app/api?username=weredok&count_private=true&show_icons=true&bg_color=000000,0200a5,a50003)
+<h1 align="center">Learning Languages</h1>
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats-weredok.vercel.app/api/top-langs/?username=weredok&theme=transparent&card_height=300&layout=compact&bg_color=000000,000000,000000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1 align="center">I using it everyday</h1>
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord-api-types&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discordx-ts&repo=discordx&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discord&repo=discord-api-docs&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nitreojs&repo=puregram&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axios&repo=axios&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
