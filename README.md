@@ -1,7 +1,11 @@
  Hi! I'm Weredok, and i junior developer.
 Learning JavaScript, TypeScript, HTML, CSS.
+<h1 align="center">See this repo</h1>
+
+<div align="center">
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weredok&repo=my-discord-selfbot&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Weredok GitHub stats](https://github-readme-stats-weredok.vercel.app/api?username=weredok&count_private=true&show_icons=true&bg_color=000000,0200a5,a50003)
-<h1 align="center">Learning Languages</h1>
+<h1 align="center">Top-Languages for me</h1>
 
 <div align="center">
   
