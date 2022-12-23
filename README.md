@@ -10,7 +10,7 @@ Learning JavaScript, TypeScript, HTML, CSS.
 
 <div align="center">
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weredok&repo=my-discord-selfbot&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weredok&repo=my-discord-selfbot&theme=transparent)](https://github.com/weredok/my-discord-selfbot)
  
 <div align="center">
   
