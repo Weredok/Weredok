@@ -19,9 +19,9 @@ Learning JavaScript, TypeScript, HTML, CSS.
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord-api-types&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discordx-ts&repo=discordx&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discord&repo=discord-api-docs&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nitreojs&repo=puregram&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axios&repo=axios&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-weredok.vercel.app/api/pin/?username=discordjs&repo=discord.js&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-weredok.vercel.app/api/pin/?username=discordjs&repo=discord-api-types&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-weredok.vercel.app/api/pin/?username=discordx-ts&repo=discordx&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-weredok.vercel.app/api/pin/?username=discord&repo=discord-api-docs&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats-weredok.vercel.app/api/pin/?username=nitreojs&repo=puregram&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats-weredok.vercel.app/api/pin/?username=axios&repo=axios&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
